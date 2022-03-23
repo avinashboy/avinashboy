@@ -26,8 +26,7 @@
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=avinashboy&show_icons=true&locale=en&theme=dark" alt="avinashboy" />
-  
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashboy&show_icons=true&locale=en&layout=compact&theme=dark" alt="avinashboy" />
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashboy&show_icons=true&locale=en&layout=compact&theme=dark" alt="avinashboy" />
 </p>
 
 
