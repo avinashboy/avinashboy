@@ -14,7 +14,7 @@
 <hr>
 
 ### Languages 🛠
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)
 
 ### Frameworks and Tools
 [![My Skills](https://skillicons.dev/icons?i=git,react,express,scss,heroku,netlify,)](https://skillicons.dev)
