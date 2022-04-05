@@ -1,4 +1,4 @@
-### Hi there, I'm avinash 👋 <img src="https://komarev.com/ghpvc/?username=avinashboy&label=Profile%20views&color=0e75b6&style=flat" alt="avinashboy" /> 
+<!-- ### Hi there, I'm avinash 👋 <img src="https://komarev.com/ghpvc/?username=avinashboy&label=Profile%20views&color=0e75b6&style=flat" alt="avinashboy" />  -->
 	
 
 <hr>
@@ -17,7 +17,8 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,python,cpp)](https://skillicons.dev)
 
 ### Frameworks and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,react,express,heroku,netlify,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,react,express,scss,heroku,netlify,)](https://skillicons.dev)
+
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,)](https://skillicons.dev)
