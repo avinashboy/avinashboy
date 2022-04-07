@@ -1,4 +1,4 @@
-<!-- ### Hi there, I'm avinash 👋 <img src="https://komarev.com/ghpvc/?username=avinashboy&label=Profile%20views&color=0e75b6&style=flat" alt="avinashboy" />  -->
+### Hi there, I'm avinash 👋 <img src="https://komarev.com/ghpvc/?username=avinashboy&label=Profile%20views&color=0e75b6&style=flat" alt="avinashboy" /> 
 	
 
 <hr>
